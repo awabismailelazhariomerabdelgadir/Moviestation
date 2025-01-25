@@ -1,0 +1,183 @@
+.div01{
+    background-image: url(../Img/dark_red_black_background_design_hd_red_and_black_aesthetic-1600x900.jpg);
+    height: 100px;
+}
+ul{
+    list-style: none;;
+}
+.div01 li h1{
+    color: brown;
+}
+.div01 select{
+    background-color: black;
+    color: azure;
+    font-size: 25px;
+
+}
+.div01 li{
+    float: left;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+input{
+    padding-left: 10px;
+    margin-left: 560px;
+}
+ul{
+    list-style-type: none;
+    
+}
+.item01 li{
+    padding-right: 20px;
+    
+}
+.item01 span{
+    color: rgb(197, 148, 58)
+}
+.item01 a{
+    color: rgb(197, 148, 58);
+    text-decoration: none;
+    
+}
+.item05{
+    margin-left: 50px;
+}
+.item02 li{
+    padding-right: 50px;
+    
+}
+.item02 a{
+    color: rgb(197, 148, 58);
+    text-decoration: none;
+    
+}
+.item02 h3{
+    font-size: 18px;
+}
+.div02{
+    background-color: brown;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.div02 li{
+    float: left;
+    padding-left: 120px;
+}
+.div02 li a{
+    text-decoration: solid;
+    color: black;
+    font-size: large;
+}
+.div02 a:hover{
+    text-decoration: underline;
+    color: beige;
+}
+.menu01{
+    background-color:  brown;
+}
+.div03 li a{
+    text-decoration: none;
+    color: black;
+}
+.div03 a:hover{
+    text-decoration: overline;
+    color: cornflowerblue;
+}
+.div04 img{
+    width: 330px;
+}
+.item03{
+    background-color: brown;
+    margin-left: 580px;
+}
+h2{
+    text-align: center;
+}
+.div05{
+    padding-left: 70px;
+}
+.div05 h4{
+    color: brown;
+    text-decoration: underline black;
+}
+.item04{
+    padding-left: 60px;
+}
+.item04 p{
+    padding-left: 30px;
+}
+.div05 h1{
+    color: black;
+    text-decoration: underline brown;
+}
+.div05 h1 li a{
+    color: black;
+    text-decoration: underline brown; 
+}
+.item11{
+    color: black;
+    text-decoration: underline brown; 
+}
+.div05 p{
+    padding-left: 30px;
+}
+.item09{
+    text-align: center;
+}
+.item10{
+    padding-left: 10px;
+    margin-left: 550px;
+}
+.item06{
+    padding-left: 10px;
+    margin-left: 620px;
+
+}
+h6{
+    text-align: center;
+}
+.item07{
+    padding-left: 10px;
+    margin-left: 620px;
+
+}
+.item08{
+    padding-left: 10px;
+    margin-left: 620px;
+    background-color: brown;
+
+}
+.item12 li a{
+    color: aliceblue;
+    text-decoration: underline black;
+}
+.item12 li a:hover{
+    color: rgb(100, 100, 100);
+    text-decoration: underline black;
+}
+.item12{
+    color: aliceblue;
+}
+.item12:hover{
+    color: aliceblue;
+    text-decoration: underline black;
+}
+.item13{
+    padding-right: 20px;
+
+}
+.div55{
+    padding-left: 70px;
+}
+.div55 h1{
+    color: black;
+    text-decoration: underline rgb(230, 230, 230);
+}
+.div55 h1 li a{
+    color: black;
+    text-decoration: underline rgb(224, 224, 224); 
+}
+.div02 li{
+    float: left;
+}
